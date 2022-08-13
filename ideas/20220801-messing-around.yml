@@ -14,7 +14,7 @@ logger:
 
 # api:
 #  encryption:
-#    key: "A5+uM9ViwHaWIQN856L9wg+W5Ik9HHjukSPw4IMWshA="
+#    key: ""
 
 ota:
   password: "e8e8649a57fb76beef4f651dafe5c6d1"
